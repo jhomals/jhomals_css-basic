@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+   
+    text-align: center;
+    padding: 60px;
+    margin: auto;
+    background-color: rgb(134, 64, 39);
+    text-transform: capitalize;
+}
+.two{
+    background-color: rgb(250, 189, 132);
+    padding: 20px;
+    
+}
+#ul{
+    display: flex; 
+    padding: 0; 
+    justify-content: center;
+    list-style: none;
+    font-size: 20px;
+    
+}
+li{
+    margin-right: 20px;
+}
+footer{
+    text-align: center;
+}
+nav{
+   color: green;
+   margin-bottom: 20px;   
+}
+nav ul li a{
+    text-decoration: none;
+    color: green;
+}
+p{
+    margin-bottom: 15px;
+    color: maroon;
+}
+h2{
+    margin-bottom: 15px;
+    text-transform: capitalize;
+}
+nav ul li a:hover{
+    color: rgb(175, 202, 175);
+}
